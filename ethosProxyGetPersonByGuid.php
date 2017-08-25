@@ -1,14 +1,14 @@
 <?php
 header('Content-Type: application/json');
 
-$apikey="ey-your-api-key-here";
+$apikey="e58326ed-c8a3-4b26-8688-5f0a6780187b";
 
 // Setting up ethos specific details
 $ethosurl='https://integrateapi.elluciancloud.com';
 $authurlpath='/auth';
 $apiurlpath='/api/';
 $ethosDataModel="persons";
-$ethosguid="1111-2222-3333-4444-555";
+$ethosguid="01472c8f-891c-45eb-8abf-790d33a83402";
 //TODO Add information to find the GUIDs in the Ellucian ERP systems
 //$publishurl='https://integrateapi.elluciancloud.com/publish';
 //$checkurl='https://integrateapi.elluciancloud.com/consume';
